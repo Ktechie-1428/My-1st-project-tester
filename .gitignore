@@ -1,0 +1,13 @@
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
+
+# Python (if you use it)
+__pycache__/
+*.pyc
+.env
+
+# Node (if you use it)
+node_modules/
